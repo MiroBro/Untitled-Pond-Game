@@ -1,0 +1,6840 @@
+fileFormatVersion: 2
+guid: 9d684aaa1c37d724cbf3e7c79017800a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2589690409646472007
+    second: duck species 3 - 54 species_0
+  - first:
+      213: -8760923591280464175
+    second: duck species 3 - 54 species_1
+  - first:
+      213: 3684483771024554697
+    second: duck species 3 - 54 species_2
+  - first:
+      213: 7539086703422911391
+    second: duck species 3 - 54 species_3
+  - first:
+      213: -5914219797223023387
+    second: duck species 3 - 54 species_4
+  - first:
+      213: 9024403609185667074
+    second: duck species 3 - 54 species_5
+  - first:
+      213: 1087395803351620424
+    second: duck species 3 - 54 species_6
+  - first:
+      213: -935381345158674280
+    second: duck species 3 - 54 species_7
+  - first:
+      213: -385323952368389756
+    second: duck species 3 - 54 species_8
+  - first:
+      213: -4071993526873256209
+    second: duck species 3 - 54 species_9
+  - first:
+      213: -8068574222817548058
+    second: duck species 3 - 54 species_10
+  - first:
+      213: -354938729436086167
+    second: duck species 3 - 54 species_11
+  - first:
+      213: -8883180762767053218
+    second: duck species 3 - 54 species_12
+  - first:
+      213: 6499097547318621161
+    second: duck species 3 - 54 species_13
+  - first:
+      213: 3339958642422750719
+    second: duck species 3 - 54 species_14
+  - first:
+      213: -2804514867921324390
+    second: duck species 3 - 54 species_15
+  - first:
+      213: -866426487985670231
+    second: duck species 3 - 54 species_16
+  - first:
+      213: 741501924643276154
+    second: duck species 3 - 54 species_17
+  - first:
+      213: -6074967131290027553
+    second: duck species 3 - 54 species_18
+  - first:
+      213: 2850302485134767542
+    second: duck species 3 - 54 species_19
+  - first:
+      213: -7842020555876317474
+    second: duck species 3 - 54 species_20
+  - first:
+      213: 2515044402438275940
+    second: duck species 3 - 54 species_21
+  - first:
+      213: 6830892499826120113
+    second: duck species 3 - 54 species_22
+  - first:
+      213: 4762930252008511544
+    second: duck species 3 - 54 species_23
+  - first:
+      213: -90970326257897883
+    second: duck species 3 - 54 species_24
+  - first:
+      213: 6861680848198148014
+    second: duck species 3 - 54 species_25
+  - first:
+      213: -7859973439132429178
+    second: duck species 3 - 54 species_26
+  - first:
+      213: -6723460178821522020
+    second: duck species 3 - 54 species_27
+  - first:
+      213: -3452824166235855077
+    second: duck species 3 - 54 species_28
+  - first:
+      213: 5483633017283613357
+    second: duck species 3 - 54 species_29
+  - first:
+      213: 3017639086667032659
+    second: duck species 3 - 54 species_30
+  - first:
+      213: 4617704644404547117
+    second: duck species 3 - 54 species_31
+  - first:
+      213: 2377036305619542539
+    second: duck species 3 - 54 species_32
+  - first:
+      213: -3620347186176066819
+    second: duck species 3 - 54 species_33
+  - first:
+      213: 8436724909088903463
+    second: duck species 3 - 54 species_34
+  - first:
+      213: -4711019446136848151
+    second: duck species 3 - 54 species_35
+  - first:
+      213: 6228524238385629793
+    second: duck species 3 - 54 species_36
+  - first:
+      213: -970211906370324797
+    second: duck species 3 - 54 species_37
+  - first:
+      213: -2258941448376490440
+    second: duck species 3 - 54 species_38
+  - first:
+      213: 2942580327568229920
+    second: duck species 3 - 54 species_39
+  - first:
+      213: 3314848399780708095
+    second: duck species 3 - 54 species_40
+  - first:
+      213: 8660904088848053426
+    second: duck species 3 - 54 species_41
+  - first:
+      213: 7072049889097045191
+    second: duck species 3 - 54 species_42
+  - first:
+      213: -4418118415260234126
+    second: duck species 3 - 54 species_43
+  - first:
+      213: 6171417909568104312
+    second: duck species 3 - 54 species_44
+  - first:
+      213: -199320999736708527
+    second: duck species 3 - 54 species_45
+  - first:
+      213: -8153788502716600293
+    second: duck species 3 - 54 species_46
+  - first:
+      213: 3795373632664430966
+    second: duck species 3 - 54 species_47
+  - first:
+      213: 4328483153052384566
+    second: duck species 3 - 54 species_48
+  - first:
+      213: 8708762366435282135
+    second: duck species 3 - 54 species_49
+  - first:
+      213: 2377412606646160474
+    second: duck species 3 - 54 species_50
+  - first:
+      213: -3932215475460144515
+    second: duck species 3 - 54 species_51
+  - first:
+      213: -6740780625740952208
+    second: duck species 3 - 54 species_52
+  - first:
+      213: 8124263393043197294
+    second: duck species 3 - 54 species_53
+  - first:
+      213: -8427346899940779177
+    second: duck species 3 - 54 species_54
+  - first:
+      213: 703470530328797712
+    second: duck species 3 - 54 species_55
+  - first:
+      213: 7120485654385151021
+    second: duck species 3 - 54 species_56
+  - first:
+      213: 7685253475461445353
+    second: duck species 3 - 54 species_57
+  - first:
+      213: -8309149551227678175
+    second: duck species 3 - 54 species_58
+  - first:
+      213: 7355701962140716752
+    second: duck species 3 - 54 species_59
+  - first:
+      213: -6968229723871475617
+    second: duck species 3 - 54 species_60
+  - first:
+      213: 8754777832075647571
+    second: duck species 3 - 54 species_61
+  - first:
+      213: -7922049595654004898
+    second: duck species 3 - 54 species_62
+  - first:
+      213: -7206352180804370440
+    second: duck species 3 - 54 species_63
+  - first:
+      213: -8121407205501414432
+    second: duck species 3 - 54 species_64
+  - first:
+      213: -7617098944122808651
+    second: duck species 3 - 54 species_65
+  - first:
+      213: -5094907767263369489
+    second: duck species 3 - 54 species_66
+  - first:
+      213: 3571536879768407468
+    second: duck species 3 - 54 species_67
+  - first:
+      213: -6805118292501651681
+    second: duck species 3 - 54 species_68
+  - first:
+      213: 2951915393272580610
+    second: duck species 3 - 54 species_69
+  - first:
+      213: 2772751570544574540
+    second: duck species 3 - 54 species_70
+  - first:
+      213: 758027395785581646
+    second: duck species 3 - 54 species_71
+  - first:
+      213: -2020518903827102713
+    second: duck species 3 - 54 species_72
+  - first:
+      213: 2866434547088208487
+    second: duck species 3 - 54 species_73
+  - first:
+      213: 4964087997166026451
+    second: duck species 3 - 54 species_74
+  - first:
+      213: -1394422881921221819
+    second: duck species 3 - 54 species_75
+  - first:
+      213: 7605089563280056939
+    second: duck species 3 - 54 species_76
+  - first:
+      213: -4741026116971865114
+    second: duck species 3 - 54 species_77
+  - first:
+      213: -1171959056836543382
+    second: duck species 3 - 54 species_78
+  - first:
+      213: -4284408785196725529
+    second: duck species 3 - 54 species_79
+  - first:
+      213: 1500874028169392603
+    second: duck species 3 - 54 species_80
+  - first:
+      213: -1083247531280536420
+    second: duck species 3 - 54 species_81
+  - first:
+      213: -7715417301132159890
+    second: duck species 3 - 54 species_82
+  - first:
+      213: -3319241220581300118
+    second: duck species 3 - 54 species_83
+  - first:
+      213: 5952799384322282463
+    second: duck species 3 - 54 species_84
+  - first:
+      213: 4710276502267788086
+    second: duck species 3 - 54 species_85
+  - first:
+      213: -7383296107123147369
+    second: duck species 3 - 54 species_86
+  - first:
+      213: -9106414084448938303
+    second: duck species 3 - 54 species_87
+  - first:
+      213: 352733316759246768
+    second: duck species 3 - 54 species_88
+  - first:
+      213: -51109479264637077
+    second: duck species 3 - 54 species_89
+  - first:
+      213: -16113874683160742
+    second: duck species 3 - 54 species_90
+  - first:
+      213: 8352219101419288626
+    second: duck species 3 - 54 species_91
+  - first:
+      213: -2031261328654721003
+    second: duck species 3 - 54 species_92
+  - first:
+      213: -8121471580838183293
+    second: duck species 3 - 54 species_93
+  - first:
+      213: -7890412881265581128
+    second: duck species 3 - 54 species_94
+  - first:
+      213: -1450604107318161054
+    second: duck species 3 - 54 species_95
+  - first:
+      213: 3586854987379110151
+    second: duck species 3 - 54 species_96
+  - first:
+      213: -8371362299501883879
+    second: duck species 3 - 54 species_97
+  - first:
+      213: 6681020959690928696
+    second: duck species 3 - 54 species_98
+  - first:
+      213: -7178782119623504068
+    second: duck species 3 - 54 species_99
+  - first:
+      213: 1288317948807831084
+    second: duck species 3 - 54 species_100
+  - first:
+      213: 5339307573794901495
+    second: duck species 3 - 54 species_101
+  - first:
+      213: -8521261029750992721
+    second: duck species 3 - 54 species_102
+  - first:
+      213: 2705088559652378502
+    second: duck species 3 - 54 species_103
+  - first:
+      213: -6870969364071747323
+    second: duck species 3 - 54 species_104
+  - first:
+      213: 853500463478334104
+    second: duck species 3 - 54 species_105
+  - first:
+      213: 5837830897636712527
+    second: duck species 3 - 54 species_106
+  - first:
+      213: 2044098799268170
+    second: duck species 3 - 54 species_107
+  - first:
+      213: 2784759505840527510
+    second: duck species 3 - 54 species_108
+  - first:
+      213: -1555092899087345121
+    second: duck species 3 - 54 species_109
+  - first:
+      213: 687483725590101399
+    second: duck species 3 - 54 species_110
+  - first:
+      213: 7143441478556342847
+    second: duck species 3 - 54 species_111
+  - first:
+      213: 7829379331723328502
+    second: duck species 3 - 54 species_112
+  - first:
+      213: -3579028654113562370
+    second: duck species 3 - 54 species_113
+  - first:
+      213: 3072083321870555859
+    second: duck species 3 - 54 species_114
+  - first:
+      213: -6680240378366008686
+    second: duck species 3 - 54 species_115
+  - first:
+      213: -2619592661047535323
+    second: duck species 3 - 54 species_116
+  - first:
+      213: -2772245739276593763
+    second: duck species 3 - 54 species_117
+  - first:
+      213: -3306331422871890090
+    second: duck species 3 - 54 species_118
+  - first:
+      213: 8886286608558170291
+    second: duck species 3 - 54 species_119
+  - first:
+      213: -3646960586122891124
+    second: duck species 3 - 54 species_120
+  - first:
+      213: -2394071564135895897
+    second: duck species 3 - 54 species_121
+  - first:
+      213: 3784502405419572390
+    second: duck species 3 - 54 species_122
+  - first:
+      213: -2674906452028667196
+    second: duck species 3 - 54 species_123
+  - first:
+      213: 8838285462307225247
+    second: duck species 3 - 54 species_124
+  - first:
+      213: 6838396225188611885
+    second: duck species 3 - 54 species_125
+  - first:
+      213: -945119922194299947
+    second: duck species 3 - 54 species_126
+  - first:
+      213: 4302674102370003811
+    second: duck species 3 - 54 species_127
+  - first:
+      213: -9120524543901536397
+    second: duck species 3 - 54 species_128
+  - first:
+      213: -4658756225834934552
+    second: duck species 3 - 54 species_129
+  - first:
+      213: -7318433690178764782
+    second: duck species 3 - 54 species_130
+  - first:
+      213: 7434081228469231227
+    second: duck species 3 - 54 species_131
+  - first:
+      213: 4789439724807226215
+    second: duck species 3 - 54 species_132
+  - first:
+      213: -726463908147391769
+    second: duck species 3 - 54 species_133
+  - first:
+      213: 854926534432588520
+    second: duck species 3 - 54 species_134
+  - first:
+      213: -3145157016718151465
+    second: duck species 3 - 54 species_135
+  - first:
+      213: 421196514729940259
+    second: duck species 3 - 54 species_136
+  - first:
+      213: 9160527303953720219
+    second: duck species 3 - 54 species_137
+  - first:
+      213: -2478397508089016377
+    second: duck species 3 - 54 species_138
+  - first:
+      213: 2633325024947186575
+    second: duck species 3 - 54 species_139
+  - first:
+      213: -2749379014506101138
+    second: duck species 3 - 54 species_140
+  - first:
+      213: -5103565373691489699
+    second: duck species 3 - 54 species_141
+  - first:
+      213: 7467984041059363502
+    second: duck species 3 - 54 species_142
+  - first:
+      213: -7224321618290178681
+    second: duck species 3 - 54 species_143
+  - first:
+      213: 5470850926239043025
+    second: duck species 3 - 54 species_144
+  - first:
+      213: -1972768845996520705
+    second: duck species 3 - 54 species_145
+  - first:
+      213: -5174058515566621879
+    second: duck species 3 - 54 species_146
+  - first:
+      213: 464302151793599798
+    second: duck species 3 - 54 species_147
+  - first:
+      213: -93994624648755738
+    second: duck species 3 - 54 species_148
+  - first:
+      213: -7258078727682632276
+    second: duck species 3 - 54 species_149
+  - first:
+      213: -6827809240564167256
+    second: duck species 3 - 54 species_150
+  - first:
+      213: 7156183068864881333
+    second: duck species 3 - 54 species_151
+  - first:
+      213: 9015893304461655249
+    second: duck species 3 - 54 species_152
+  - first:
+      213: 8163559078387262248
+    second: duck species 3 - 54 species_153
+  - first:
+      213: 6719553324082073301
+    second: duck species 3 - 54 species_154
+  - first:
+      213: 7908095574567837318
+    second: duck species 3 - 54 species_155
+  - first:
+      213: 1126262431014549639
+    second: duck species 3 - 54 species_156
+  - first:
+      213: -707688027429352133
+    second: duck species 3 - 54 species_157
+  - first:
+      213: -4098189687963943811
+    second: duck species 3 - 54 species_158
+  - first:
+      213: -4772972637378514206
+    second: duck species 3 - 54 species_159
+  - first:
+      213: -5684990823951057591
+    second: duck species 3 - 54 species_160
+  - first:
+      213: 7600741503873102192
+    second: duck species 3 - 54 species_161
+  - first:
+      213: -7864114816017226176
+    second: duck species 3 - 54 species_162
+  - first:
+      213: 7400318930634120563
+    second: duck species 3 - 54 species_163
+  - first:
+      213: 9039058289469436309
+    second: duck species 3 - 54 species_164
+  - first:
+      213: -4821203602458653806
+    second: duck species 3 - 54 species_165
+  - first:
+      213: 5373592590233949395
+    second: duck species 3 - 54 species_166
+  - first:
+      213: 7325353264633796996
+    second: duck species 3 - 54 species_167
+  - first:
+      213: -7264925929718245378
+    second: duck species 3 - 54 species_168
+  - first:
+      213: -5039763322976701649
+    second: duck species 3 - 54 species_169
+  - first:
+      213: 2766530514631319655
+    second: duck species 3 - 54 species_170
+  - first:
+      213: -6113123736201278808
+    second: duck species 3 - 54 species_171
+  - first:
+      213: -3764582466757883511
+    second: duck species 3 - 54 species_172
+  - first:
+      213: -8810053412222567533
+    second: duck species 3 - 54 species_173
+  - first:
+      213: -4090451831070985174
+    second: duck species 3 - 54 species_174
+  - first:
+      213: 6809541153010891845
+    second: duck species 3 - 54 species_175
+  - first:
+      213: 3484964825153144987
+    second: duck species 3 - 54 species_176
+  - first:
+      213: 7233205190292344863
+    second: duck species 3 - 54 species_177
+  - first:
+      213: -1260295754420750288
+    second: duck species 3 - 54 species_178
+  - first:
+      213: -8958988180480329996
+    second: duck species 3 - 54 species_179
+  - first:
+      213: -4311590645829263072
+    second: duck species 3 - 54 species_180
+  - first:
+      213: 43956475521949964
+    second: duck species 3 - 54 species_181
+  - first:
+      213: 2341009960811383875
+    second: duck species 3 - 54 species_182
+  - first:
+      213: -5890101763170306244
+    second: duck species 3 - 54 species_183
+  - first:
+      213: 7979944270559252035
+    second: duck species 3 - 54 species_184
+  - first:
+      213: 1367133319109559508
+    second: duck species 3 - 54 species_185
+  - first:
+      213: 3716977368357051283
+    second: duck species 3 - 54 species_186
+  - first:
+      213: -7188184684634643042
+    second: duck species 3 - 54 species_187
+  - first:
+      213: -6917600099730687564
+    second: duck species 3 - 54 species_188
+  - first:
+      213: 4854026175312951082
+    second: duck species 3 - 54 species_189
+  - first:
+      213: -6175503488666961297
+    second: duck species 3 - 54 species_190
+  - first:
+      213: 8836427376349061948
+    second: duck species 3 - 54 species_191
+  - first:
+      213: -8031998023215002805
+    second: duck species 3 - 54 species_192
+  - first:
+      213: 8120233978628178290
+    second: duck species 3 - 54 species_193
+  - first:
+      213: 5918896076048667866
+    second: duck species 3 - 54 species_194
+  - first:
+      213: 4720733003181092296
+    second: duck species 3 - 54 species_195
+  - first:
+      213: 4380270044364383147
+    second: duck species 3 - 54 species_196
+  - first:
+      213: -8346848720198690377
+    second: duck species 3 - 54 species_197
+  - first:
+      213: 336329619077165250
+    second: duck species 3 - 54 species_198
+  - first:
+      213: 2810381745165860640
+    second: duck species 3 - 54 species_199
+  - first:
+      213: 6690238061652582183
+    second: duck species 3 - 54 species_200
+  - first:
+      213: -3805054169432527878
+    second: duck species 3 - 54 species_201
+  - first:
+      213: 1849333124873210943
+    second: duck species 3 - 54 species_202
+  - first:
+      213: 7859885499840543891
+    second: duck species 3 - 54 species_203
+  - first:
+      213: 4140088641146280131
+    second: duck species 3 - 54 species_204
+  - first:
+      213: 7758770628995192503
+    second: duck species 3 - 54 species_205
+  - first:
+      213: 1235589340435935564
+    second: duck species 3 - 54 species_206
+  - first:
+      213: 2854945513043911949
+    second: duck species 3 - 54 species_207
+  - first:
+      213: -2502830202254146394
+    second: duck species 3 - 54 species_208
+  - first:
+      213: 4551755805662211381
+    second: duck species 3 - 54 species_209
+  - first:
+      213: -3775936113422431606
+    second: duck species 3 - 54 species_210
+  - first:
+      213: -3101305025295728508
+    second: duck species 3 - 54 species_211
+  - first:
+      213: -1358201620789835126
+    second: duck species 3 - 54 species_212
+  - first:
+      213: 5580246016123003725
+    second: duck species 3 - 54 species_213
+  - first:
+      213: 343210583965446783
+    second: duck species 3 - 54 species_214
+  - first:
+      213: -7914205688237039258
+    second: duck species 3 - 54 species_215
+  - first:
+      213: 2825372794007605459
+    second: duck species 3 - 54 species_216
+  - first:
+      213: -6037063378340642152
+    second: duck species 3 - 54 species_217
+  - first:
+      213: 5829428218006008321
+    second: duck species 3 - 54 species_218
+  - first:
+      213: -1055757126723202362
+    second: duck species 3 - 54 species_219
+  - first:
+      213: -6506301788269061733
+    second: duck species 3 - 54 species_220
+  - first:
+      213: 6019150478320953893
+    second: duck species 3 - 54 species_221
+  - first:
+      213: -8921351162353611347
+    second: duck species 3 - 54 species_222
+  - first:
+      213: 4114334321384527147
+    second: duck species 3 - 54 species_223
+  - first:
+      213: 3873391606038460556
+    second: duck species 3 - 54 species_224
+  - first:
+      213: -2446979065597546416
+    second: duck species 3 - 54 species_225
+  - first:
+      213: 1730047860632828401
+    second: duck species 3 - 54 species_226
+  - first:
+      213: -2980708393882102966
+    second: duck species 3 - 54 species_227
+  - first:
+      213: -8268863767377619835
+    second: duck species 3 - 54 species_228
+  - first:
+      213: -1273200981660480240
+    second: duck species 3 - 54 species_229
+  - first:
+      213: -7344990843571893042
+    second: duck species 3 - 54 species_230
+  - first:
+      213: -8858932491762377696
+    second: duck species 3 - 54 species_231
+  - first:
+      213: -1535175161886707960
+    second: duck species 3 - 54 species_232
+  - first:
+      213: -8136954137518210766
+    second: duck species 3 - 54 species_233
+  - first:
+      213: -8581230589338728143
+    second: duck species 3 - 54 species_234
+  - first:
+      213: -4575492413411607476
+    second: duck species 3 - 54 species_235
+  - first:
+      213: -3197568341065628047
+    second: duck species 3 - 54 species_236
+  - first:
+      213: 8031276410784509897
+    second: duck species 3 - 54 species_237
+  - first:
+      213: -9072297928289424371
+    second: duck species 3 - 54 species_238
+  - first:
+      213: 3311219579454800787
+    second: duck species 3 - 54 species_239
+  - first:
+      213: -6769287343698445595
+    second: duck species 3 - 54 species_240
+  - first:
+      213: -9182981300466363208
+    second: duck species 3 - 54 species_241
+  - first:
+      213: 5683603472121504602
+    second: duck species 3 - 54 species_242
+  - first:
+      213: -6018806623985637831
+    second: duck species 3 - 54 species_243
+  - first:
+      213: -5963995720434763382
+    second: duck species 3 - 54 species_244
+  - first:
+      213: -9022442737353046784
+    second: duck species 3 - 54 species_245
+  - first:
+      213: -4573991264829365524
+    second: duck species 3 - 54 species_246
+  - first:
+      213: -8278206952816996800
+    second: duck species 3 - 54 species_247
+  - first:
+      213: 5317877173468888
+    second: duck species 3 - 54 species_248
+  - first:
+      213: -3835003235109709794
+    second: duck species 3 - 54 species_249
+  - first:
+      213: 3945899425626100799
+    second: duck species 3 - 54 species_250
+  - first:
+      213: -356940063486739617
+    second: duck species 3 - 54 species_251
+  - first:
+      213: 8522753145864145643
+    second: duck species 3 - 54 species_252
+  - first:
+      213: 5605465140334494476
+    second: duck species 3 - 54 species_253
+  - first:
+      213: 8742868805928142085
+    second: duck species 3 - 54 species_254
+  - first:
+      213: -5385676222329139161
+    second: duck species 3 - 54 species_255
+  - first:
+      213: -7348542145230904838
+    second: duck species 3 - 54 species_256
+  - first:
+      213: 899472502048236519
+    second: duck species 3 - 54 species_257
+  - first:
+      213: -3395394913447070243
+    second: duck species 3 - 54 species_258
+  - first:
+      213: 5967265756416544214
+    second: duck species 3 - 54 species_259
+  - first:
+      213: -3415073893829531692
+    second: duck species 3 - 54 species_260
+  - first:
+      213: 808702579022856171
+    second: duck species 3 - 54 species_261
+  - first:
+      213: 8293681913019211305
+    second: duck species 3 - 54 species_262
+  - first:
+      213: 5518418084002261716
+    second: duck species 3 - 54 species_263
+  - first:
+      213: -4462557642948901203
+    second: duck species 3 - 54 species_264
+  - first:
+      213: 5891876008516159211
+    second: duck species 3 - 54 species_265
+  - first:
+      213: -4033968095735325408
+    second: duck species 3 - 54 species_266
+  - first:
+      213: 6896135596563479015
+    second: duck species 3 - 54 species_267
+  - first:
+      213: -1021164338374410561
+    second: duck species 3 - 54 species_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4151
+        width: 691
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b449ce0b429f0cd0800000000000000
+      internalID: -2589690409646472007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4186
+        width: 652
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de636d3962fa6680800000000000000
+      internalID: -8760923591280464175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_2
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 4260
+        width: 666
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca3c90f77ae12330800000000000000
+      internalID: 3684483771024554697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_3
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 4220
+        width: 695
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b468b96730a860800000000000000
+      internalID: 7539086703422911391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_4
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 4139
+        width: 653
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec50f6ed687ceda0800000000000000
+      internalID: -5914219797223023387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_5
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 4077
+        width: 667
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208c34be44f1d3d70800000000000000
+      internalID: 9024403609185667074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4151
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b160dc8b4371f00800000000000000
+      internalID: 1087395803351620424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4152
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984a485f9bd403f0800000000000000
+      internalID: -935381345158674280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4136
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f1a728ed07aaf0800000000000000
+      internalID: -385323952368389756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4138
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee870f267f5d77c0800000000000000
+      internalID: -4071993526873256209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4151
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e826155e7aa60090800000000000000
+      internalID: -8068574222817548058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 4151
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600fea2b11031bf0800000000000000
+      internalID: -354938729436086167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4151
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eafaf492a98b480800000000000000
+      internalID: -8883180762767053218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4151
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f98c19ce613a50800000000000000
+      internalID: 6499097547318621161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4151
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd9a1e70bae95e20800000000000000
+      internalID: 3339958642422750719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_15
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 4152
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a967f3a269c5419d0800000000000000
+      internalID: -2804514867921324390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_16
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 4138
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ff9f13b5d9f3f0800000000000000
+      internalID: -866426487985670231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_17
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 4138
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7581a262185a4a00800000000000000
+      internalID: 741501924643276154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_18
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 4138
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b845a49161bba0800000000000000
+      internalID: -6074967131290027553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_19
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 4139
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5fed8320f4e8720800000000000000
+      internalID: 2850302485134767542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_20
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 4138
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64ead6adb8b2390800000000000000
+      internalID: -7842020555876317474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_21
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 4139
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4630ba90f8b37e220800000000000000
+      internalID: 2515044402438275940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_22
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 4139
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5140779843cce50800000000000000
+      internalID: 6830892499826120113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_23
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 4139
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838dde044d3591240800000000000000
+      internalID: 4762930252008511544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_24
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 4138
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eeb4268feccbef0800000000000000
+      internalID: -90970326257897883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_25
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4139
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf93fe6066993f50800000000000000
+      internalID: 6861680848198148014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_26
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 4138
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68491801dc3cbe290800000000000000
+      internalID: -7859973439132429178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_27
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 4138
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ddbdbf69871b2a0800000000000000
+      internalID: -6723460178821522020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_28
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 4138
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17a0a3f6ba1510d0800000000000000
+      internalID: -3452824166235855077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_29
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 4138
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21bc9fc27c91c40800000000000000
+      internalID: 5483633017283613357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_30
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4138
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3586f1dd2cec0e920800000000000000
+      internalID: 3017639086667032659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_31
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4139
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e876f88e1651040800000000000000
+      internalID: 4617704644404547117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_32
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 4138
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02e8a60dedecf020800000000000000
+      internalID: 2377036305619542539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_33
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 4139
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf3646a61f1cdc0800000000000000
+      internalID: -3620347186176066819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_34
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 4138
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7211fe9ea94451570800000000000000
+      internalID: 8436724909088903463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_35
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 4138
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e04e0716c81f9eb0800000000000000
+      internalID: -4711019446136848151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_36
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 4138
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac2ef6bc9207650800000000000000
+      internalID: 6228524238385629793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_37
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 4139
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c631fb596d1982f0800000000000000
+      internalID: -970211906370324797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_38
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 4139
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836ec1998b0a6a0e0800000000000000
+      internalID: -2258941448376490440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_39
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 4138
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026c1cba73526d820800000000000000
+      internalID: 2942580327568229920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_40
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 4138
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe73398e05b00e20800000000000000
+      internalID: 3314848399780708095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_41
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 4138
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43481a166b13870800000000000000
+      internalID: 8660904088848053426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_42
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 4139
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c45871a7e7f42260800000000000000
+      internalID: 7072049889097045191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_43
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 4138
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e4dc2a5b0bfa2c0800000000000000
+      internalID: -4418118415260234126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_44
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 4138
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776a4424e745a550800000000000000
+      internalID: 6171417909568104312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_45
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 4138
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152fa665b9edb3df0800000000000000
+      internalID: -199320999736708527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_46
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 4138
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10b9e1be8ce7de80800000000000000
+      internalID: -8153788502716600293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_47
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 4138
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679e8dcc530eba430800000000000000
+      internalID: 3795373632664430966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_48
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 4138
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d33f19e7cd11c30800000000000000
+      internalID: 4328483153052384566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_49
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 4138
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc4aa43b3dbbd870800000000000000
+      internalID: 8708762366435282135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_50
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 4138
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0eaf6b244ef020800000000000000
+      internalID: 2377412606646160474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_51
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 4139
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7287ecdbd6fd69c0800000000000000
+      internalID: -3932215475460144515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_52
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 4138
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d00ed2cbfe372a0800000000000000
+      internalID: -6740780625740952208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_53
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 4139
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dac04038e2fb070800000000000000
+      internalID: 8124263393043197294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_54
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 4099
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b5a0ef4ac0c0b80800000000000000
+      internalID: -8427346899940779177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_55
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 4099
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012243e58ba33c900800000000000000
+      internalID: 703470530328797712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_56
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 4100
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c44e90afb01d260800000000000000
+      internalID: 7120485654385151021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_57
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4136
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e637b5515187aa60800000000000000
+      internalID: 7685253475461445353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_58
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 4099
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1225a75c188ffac80800000000000000
+      internalID: -8309149551227678175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_59
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 4099
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de8a0f56f3b41660800000000000000
+      internalID: 7355701962140716752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_60
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 4099
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5882534cffdb4f90800000000000000
+      internalID: -6968229723871475617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_61
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 4099
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a5550bd083f7970800000000000000
+      internalID: 8754777832075647571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_62
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 4086
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f14069dd93f0290800000000000000
+      internalID: -7922049595654004898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_63
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4100
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff3bc85fd4edfb90800000000000000
+      internalID: -7206352180804370440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_64
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 4099
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e35ac7fc27fa4f80800000000000000
+      internalID: -8121407205501414432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_65
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 4100
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69e801ed0aa4690800000000000000
+      internalID: -7617098944122808651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_66
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 4099
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe663e031604b49b0800000000000000
+      internalID: -5094907767263369489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_67
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 4100
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8dcc8ed5a09130800000000000000
+      internalID: 3571536879768407468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_68
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4099
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f1de0d7fc5f81a0800000000000000
+      internalID: -6805118292501651681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_69
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 4099
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a0507096f47f820800000000000000
+      internalID: 2951915393272580610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_70
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 4100
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4047bcdcdaca7620800000000000000
+      internalID: 2772751570544574540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_71
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 4099
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4460d776ed058a00800000000000000
+      internalID: 758027395785581646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_72
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 4100
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7048c6b13cca5f3e0800000000000000
+      internalID: -2020518903827102713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_73
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 4058
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b917980f97c720800000000000000
+      internalID: 2866434547088208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_74
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 4059
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7cd88bbbf3e440800000000000000
+      internalID: 4964087997166026451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_75
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 4073
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb860e6c306ace0800000000000000
+      internalID: -1394422881921221819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_76
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 4073
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62a6501aa4ba8960800000000000000
+      internalID: 7605089563280056939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_77
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 4073
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebda0b9ddd743eb0800000000000000
+      internalID: -4741026116971865114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_78
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 4072
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cb4f5727d5cbfe0800000000000000
+      internalID: -1171959056836543382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_79
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 4073
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea49cdd8e8ba84c0800000000000000
+      internalID: -4284408785196725529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_80
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 4073
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd175a50afc24d410800000000000000
+      internalID: 1500874028169392603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_81
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 4072
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c643e0c1887f0f0800000000000000
+      internalID: -1083247531280536420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_82
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4073
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645d18b7d45de490800000000000000
+      internalID: -7715417301132159890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_83
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 4072
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ea6b22bfafe1d0800000000000000
+      internalID: -3319241220581300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_84
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 4072
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd391b130879c9250800000000000000
+      internalID: 5952799384322282463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_85
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 4072
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7a8fc5834e5140800000000000000
+      internalID: 4710276502267788086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_86
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 4072
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d76671f43498990800000000000000
+      internalID: -7383296107123147369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_87
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 4073
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c69ec653a48f9180800000000000000
+      internalID: -9106414084448938303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_88
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 4058
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b751ed251925e400800000000000000
+      internalID: 352733316759246768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_89
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 4058
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa6cb033c6a4ff0800000000000000
+      internalID: -51109479264637077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_90
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 4072
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571e8f2480c6cff0800000000000000
+      internalID: -16113874683160742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_91
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4019
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383452550b09e370800000000000000
+      internalID: 8352219101419288626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_92
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 4019
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5102c8b65928fc3e0800000000000000
+      internalID: -2031261328654721003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_93
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 4019
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eb5ba60acba4f80800000000000000
+      internalID: -8121471580838183293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_94
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 4020
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3aff82a4f9f7290800000000000000
+      internalID: -7890412881265581128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_95
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 3997
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611491004b6edbe0800000000000000
+      internalID: -1450604107318161054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_96
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 4010
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f1976b9117c130800000000000000
+      internalID: 3586854987379110151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_97
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 4010
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ec71c8752f2db80800000000000000
+      internalID: -8371362299501883879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_98
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 4010
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832315f4a21c7bc50800000000000000
+      internalID: 6681020959690928696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_99
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 4010
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4aef62b7df5c90800000000000000
+      internalID: -7178782119623504068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3494
+        width: 489
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5370495601e110800000000000000
+      internalID: 1288317948807831084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_101
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3494
+        width: 359
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd099213f7091a40800000000000000
+      internalID: 5339307573794901495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_102
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 3494
+        width: 314
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa01053bd366eb980800000000000000
+      internalID: -8521261029750992721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_103
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3494
+        width: 473
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879d0c76b76a8520800000000000000
+      internalID: 2705088559652378502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_104
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 3527
+        width: 442
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50179ef64c965a0a0800000000000000
+      internalID: -6870969364071747323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_105
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 3377
+        width: 374
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e145462e38db00800000000000000
+      internalID: 853500463478334104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 768
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40af607544240150800000000000000
+      internalID: 5837830897636712527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_107
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2534
+        width: 639
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f0d6d813470000800000000000000
+      internalID: 2044098799268170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_108
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2758
+        width: 724
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698548a240475a620800000000000000
+      internalID: 2784759505840527510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_109
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2556
+        width: 608
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9a2d5f333b6ae0800000000000000
+      internalID: -1555092899087345121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_110
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2410
+        width: 761
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df8a45ece6a8900800000000000000
+      internalID: 687483725590101399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_111
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 2424
+        width: 606
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a542b5d2a922360800000000000000
+      internalID: 7143441478556342847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_112
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2552
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb7727350b87ac60800000000000000
+      internalID: 7829379331723328502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_113
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2551
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ed9ec66cb45ec0800000000000000
+      internalID: -3579028654113562370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_114
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 2551
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1f70318b32aa20800000000000000
+      internalID: 3072083321870555859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_115
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2552
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e541f4c40b43a0800000000000000
+      internalID: -6680240378366008686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_116
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2588
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299a0e9a5655abd0800000000000000
+      internalID: -2619592661047535323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_117
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 2551
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95145820310789d0800000000000000
+      internalID: -2772245739276593763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_118
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2551
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657520ea61d8d12d0800000000000000
+      internalID: -3306331422871890090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_119
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2551
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ab63c69e625b70800000000000000
+      internalID: 8886286608558170291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_120
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2551
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c807b4a5ba4636dc0800000000000000
+      internalID: -3646960586122891124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_121
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2566
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ace0d4c89c86ced0800000000000000
+      internalID: -2394071564135895897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_122
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2552
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac15a6f2e0458430800000000000000
+      internalID: 3784502405419572390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_123
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2552
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca4e6f01c2d0ead0800000000000000
+      internalID: -2674906452028667196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_124
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2552
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e325cfcc5e7aa70800000000000000
+      internalID: 8838285462307225247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_125
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2538
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274dbba22dd6ee50800000000000000
+      internalID: 6838396225188611885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_126
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2551
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3c67f207242e2f0800000000000000
+      internalID: -945119922194299947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_127
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2538
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6900bc4b26bb30800000000000000
+      internalID: 4302674102370003811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_128
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 2551
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f648bff336d6180800000000000000
+      internalID: -9120524543901536397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_129
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2551
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee18ff45e5c85fb0800000000000000
+      internalID: -4658756225834934552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_130
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2551
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210c4a06553bf6a90800000000000000
+      internalID: -7318433690178764782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_131
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2551
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ede466d792b2760800000000000000
+      internalID: 7434081228469231227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_132
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2501
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763874edd02877240800000000000000
+      internalID: 4789439724807226215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_133
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2500
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29bbcace41be5f0800000000000000
+      internalID: -726463908147391769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_134
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2500
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e209e9472f4ddb00800000000000000
+      internalID: 854926534432588520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_135
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2500
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ffa76b582a54d0800000000000000
+      internalID: -3145157016718151465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_136
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2500
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255c11aff368d500800000000000000
+      internalID: 421196514729940259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_137
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2501
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ad636c0bb02f70800000000000000
+      internalID: 9160527303953720219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_138
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2500
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0426f896fa9dd0800000000000000
+      internalID: -2478397508089016377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_139
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2500
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8baf1288237b8420800000000000000
+      internalID: 2633325024947186575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_140
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2500
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6643776a5e38d9d0800000000000000
+      internalID: -2749379014506101138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_141
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2500
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52922d155e7c29b0800000000000000
+      internalID: -5103565373691489699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_142
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2501
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa21a31beb93a760800000000000000
+      internalID: 7467984041059363502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_143
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2477
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78583a6a3cd0ebb90800000000000000
+      internalID: -7224321618290178681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_144
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2477
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd489d7eed5ceb40800000000000000
+      internalID: 5470850926239043025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_145
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2477
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa8b6ecf215f94e0800000000000000
+      internalID: -1972768845996520705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_146
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2476
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b0194813d0238b0800000000000000
+      internalID: -5174058515566621879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_147
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2476
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356b1ad858817600800000000000000
+      internalID: 464302151793599798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_148
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2513
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c30b036012bef0800000000000000
+      internalID: -93994624648755738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_149
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 2477
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca558a42adf164b90800000000000000
+      internalID: -7258078727682632276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_150
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2477
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0b06cbafbe31a0800000000000000
+      internalID: -6827809240564167256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_151
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2476
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b22b57069edf4360800000000000000
+      internalID: 7156183068864881333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_152
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2476
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc72413133ee1d70800000000000000
+      internalID: 9015893304461655249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_153
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2477
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823203abab9ca4170800000000000000
+      internalID: 8163559078387262248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_154
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 2512
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de05338526a04d50800000000000000
+      internalID: 6719553324082073301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_155
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 2511
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e54f3b6033fbd60800000000000000
+      internalID: 7908095574567837318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_156
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 2511
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887d7cb6b941af00800000000000000
+      internalID: 1126262431014549639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_157
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2476
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dc6411d79cd26f0800000000000000
+      internalID: -707688027429352133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_158
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2477
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7db2213e4027c0800000000000000
+      internalID: -4098189687963943811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_159
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2476
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2f462bcaef2cdb0800000000000000
+      internalID: -4772972637378514206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_160
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2491
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dba0b47fada11b0800000000000000
+      internalID: -5684990823951057591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_161
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2477
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071bce790224b7960800000000000000
+      internalID: 7600741503873102192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_162
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2476
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046286e9d3d0dd290800000000000000
+      internalID: -7864114816017226176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_163
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2476
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d9b0ddbd633b660800000000000000
+      internalID: 7400318930634120563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_164
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2476
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59130ef8f9f217d70800000000000000
+      internalID: 9039058289469436309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_165
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2452
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b4e9d0ed4a71db0800000000000000
+      internalID: -4821203602458653806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_166
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2451
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d0948df5d29a40800000000000000
+      internalID: 5373592590233949395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_167
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 2452
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489deb89bf1e8a560800000000000000
+      internalID: 7325353264633796996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_168
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2451
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79e9fab5ccd2b90800000000000000
+      internalID: -7264925929718245378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_169
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2488
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f237ee5a5f92f0ab0800000000000000
+      internalID: -5039763322976701649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_170
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 2451
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e0e868d0b46620800000000000000
+      internalID: 2766530514631319655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_171
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 2438
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac6b3c952d92ba0800000000000000
+      internalID: -6113123736201278808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_172
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2436
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898b3d213481cbc0800000000000000
+      internalID: -3764582466757883511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_173
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2439
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b714869176cb580800000000000000
+      internalID: -8810053412222567533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_174
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2452
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24fa265bbbcb37c0800000000000000
+      internalID: -4090451831070985174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_175
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 2451
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c3e94a999508e50800000000000000
+      internalID: 6809541153010891845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_176
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2452
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b980cf95b051d5030800000000000000
+      internalID: 3484964825153144987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_177
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2438
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1013e22cc1816460800000000000000
+      internalID: 7233205190292344863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_178
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 2451
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03871dd40b7828ee0800000000000000
+      internalID: -1260295754420750288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_179
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 2451
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6fb8377b74ba380800000000000000
+      internalID: -8958988180480329996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_180
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2451
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212372c6272a24c0800000000000000
+      internalID: -4311590645829263072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_181
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2451
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01601d7e2a2c9000800000000000000
+      internalID: 43956475521949964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_182
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1867
+        width: 355
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c40d9f720fc7020800000000000000
+      internalID: 2341009960811383875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_183
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1867
+        width: 586
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f45b47a7224ea0800000000000000
+      internalID: -5890101763170306244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_184
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1799
+        width: 455
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e0916d8057ebe60800000000000000
+      internalID: 7979944270559252035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_185
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1764
+        width: 395
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d44026a28809f210800000000000000
+      internalID: 1367133319109559508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_186
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1856
+        width: 502
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b961f193b559330800000000000000
+      internalID: 3716977368357051283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_187
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1856
+        width: 502
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e27c2d107e3c90800000000000000
+      internalID: -7188184684634643042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_188
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 978
+        width: 461
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9785d3c5fbfff90800000000000000
+      internalID: -6917600099730687564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_189
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 951
+        width: 511
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f9f5b617fc5340800000000000000
+      internalID: 4854026175312951082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_190
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 951
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6af1d8db443c4aa0800000000000000
+      internalID: -6175503488666961297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_191
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 938
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a2d2a1eb41aa70800000000000000
+      internalID: 8836427376349061948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_192
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 951
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b41ad6a5c988090800000000000000
+      internalID: -8031998023215002805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_193
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 951
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271803dd7cdd0b070800000000000000
+      internalID: 8120233978628178290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_194
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 952
+        width: 576
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4955b1f94242250800000000000000
+      internalID: 5918896076048667866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_195
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 905
+        width: 667
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd6216a7a9638140800000000000000
+      internalID: 4720733003181092296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_196
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 921
+        width: 633
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3af9ec568d9cc30800000000000000
+      internalID: 4380270044364383147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_197
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 852
+        width: 556
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b912aeff490a2c80800000000000000
+      internalID: -8346848720198690377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_198
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 951
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c07980b102eaa400800000000000000
+      internalID: 336329619077165250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_199
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 903
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7ad3ae4b700720800000000000000
+      internalID: 2810381745165860640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_200
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 904
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9997121088dc50800000000000000
+      internalID: 6690238061652582183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_201
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 903
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbead7946bb13bc0800000000000000
+      internalID: -3805054169432527878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_202
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 905
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c4e6bcda62aa910800000000000000
+      internalID: 1849333124873210943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_203
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 930
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3d39f73ce31d60800000000000000
+      internalID: 7859885499840543891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_204
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 930
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8572a1fac847930800000000000000
+      internalID: 4140088641146280131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_205
+      rect:
+        serializedVersion: 2
+        x: 4667
+        y: 930
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b61ef287c0bcab60800000000000000
+      internalID: 7758770628995192503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_206
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 930
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4171fc65f1b52110800000000000000
+      internalID: 1235589340435935564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_207
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 930
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05e31661ddce9720800000000000000
+      internalID: 2854945513043911949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_208
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 903
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c58d0139244dd0800000000000000
+      internalID: -2502830202254146394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_209
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 904
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d61dcf9c51b2f30800000000000000
+      internalID: 4551755805662211381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_210
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 903
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a03e05c1e299bc0800000000000000
+      internalID: -3775936113422431606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_211
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 891
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4804d1bc283f5f4d0800000000000000
+      internalID: -3101305025295728508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_212
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 903
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a467b62d2b62de0800000000000000
+      internalID: -1358201620789835126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_213
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 904
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ec4eaf24017d40800000000000000
+      internalID: 5580246016123003725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_214
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 890
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723a6c253453c400800000000000000
+      internalID: 343210583965446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_215
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 903
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66161499bd71b2290800000000000000
+      internalID: -7914205688237039258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_216
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 903
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d050e0369db53720800000000000000
+      internalID: 2825372794007605459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_217
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 903
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8928c77d7da083ca0800000000000000
+      internalID: -6037063378340642152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_218
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 903
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102f2e1241a46e050800000000000000
+      internalID: 5829428218006008321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_219
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 904
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c29394ac723951f0800000000000000
+      internalID: -1055757126723202362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_220
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 904
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99dbb4def8f4b5a0800000000000000
+      internalID: -6506301788269061733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_221
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 904
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a61fd1871588350800000000000000
+      internalID: 6019150478320953893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_222
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 892
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad056b926ef03480800000000000000
+      internalID: -8921351162353611347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_223
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 891
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b259251444d091930800000000000000
+      internalID: 4114334321384527147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_224
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 904
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88f6e1c42d01c530800000000000000
+      internalID: 3873391606038460556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_225
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 904
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bd3621859a0ed0800000000000000
+      internalID: -2446979065597546416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_226
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 904
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9b171fc5d520810800000000000000
+      internalID: 1730047860632828401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_227
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 904
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d1ab128562a6d0800000000000000
+      internalID: -2980708393882102966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_228
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 852
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584db51c6381f3d80800000000000000
+      internalID: -8268863767377619835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_229
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 851
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc270f37ea45ee0800000000000000
+      internalID: -1273200981660480240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_230
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 851
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc86624eb9511a90800000000000000
+      internalID: -7344990843571893042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_231
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 888
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c565bd5dfbe0580800000000000000
+      internalID: -8858932491762377696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_232
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 841
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f6dbfe256f1bae0800000000000000
+      internalID: -1535175161886707960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_233
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 841
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310597c25bb31f80800000000000000
+      internalID: -8136954137518210766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_234
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 841
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139cfba8e3859e880800000000000000
+      internalID: -8581230589338728143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_235
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 840
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3b1a54e59080c0800000000000000
+      internalID: -4575492413411607476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_236
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 840
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768fb50984ff93d0800000000000000
+      internalID: -3197568341065628047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_237
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 851
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfe8c51853d47f60800000000000000
+      internalID: 8031276410784509897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_238
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 852
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cebcfe919b81280800000000000000
+      internalID: -9072297928289424371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_239
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 852
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c8b6f9a0d3fd20800000000000000
+      internalID: 3311219579454800787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_240
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 852
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea7e40b609ae02a0800000000000000
+      internalID: -6769287343698445595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_241
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 851
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d5a6292f7f8080800000000000000
+      internalID: -9182981300466363208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_242
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 851
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53aaffae3730ee40800000000000000
+      internalID: 5683603472121504602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_243
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 851
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9366195b347e87ca0800000000000000
+      internalID: -6018806623985637831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_244
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 838
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a893989ad71ab3da0800000000000000
+      internalID: -5963995720434763382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_245
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 851
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c4c12228d9c280800000000000000
+      internalID: -9022442737353046784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_246
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 851
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce22b1ebd2be580c0800000000000000
+      internalID: -4573991264829365524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_247
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 851
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e8c20e2a6ed1d80800000000000000
+      internalID: -8278206952816996800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_248
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 851
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de32e3c494e21000800000000000000
+      internalID: 5317877173468888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_249
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 840
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18dfca50e457cac0800000000000000
+      internalID: -3835003235109709794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_250
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 840
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349cdf0f96a2c630800000000000000
+      internalID: 3945899425626100799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_251
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 840
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b74c547e4eb0bf0800000000000000
+      internalID: -356940063486739617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_252
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 840
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea4397a4d6e64670800000000000000
+      internalID: 8522753145864145643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_253
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 825
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03097a98dc9acd40800000000000000
+      internalID: 5605465140334494476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_254
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 855
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c0377bd8e45970800000000000000
+      internalID: 8742868805928142085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_255
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 840
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ddc4a20c3245b0800000000000000
+      internalID: -5385676222329139161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_256
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 840
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af166886adbb40a90800000000000000
+      internalID: -7348542145230904838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_257
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 840
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e321d999719b7c00800000000000000
+      internalID: 899472502048236519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_258
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 827
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5b1d7d05221e0d0800000000000000
+      internalID: -3395394913447070243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_259
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 840
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd8f8be69cffc250800000000000000
+      internalID: 5967265756416544214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_260
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 840
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7a49c23683b90d0800000000000000
+      internalID: -3415073893829531692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_261
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 840
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef799ff5b6193b00800000000000000
+      internalID: 808702579022856171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_262
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 840
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e979112c3191370800000000000000
+      internalID: 8293681913019211305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_263
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 199
+        width: 469
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daeb03720c559c40800000000000000
+      internalID: 5518418084002261716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_264
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 151
+        width: 494
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da68356a77fc112c0800000000000000
+      internalID: -4462557642948901203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_265
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 211
+        width: 439
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68044630624c150800000000000000
+      internalID: 5891876008516159211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_266
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 199
+        width: 512
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ddf6ac3677408c0800000000000000
+      internalID: -4033968095735325408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_267
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 130
+        width: 445
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b71ca9cef3bf50800000000000000
+      internalID: 6896135596563479015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck species 3 - 54 species_268
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 189
+        width: 478
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe75e1d17814d1f0800000000000000
+      internalID: -1021164338374410561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
