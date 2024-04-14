@@ -1,5 +1,4 @@
 # Untitled-Pond-Game
-An idle pond game
 
 Little idle game made in Unity Editor 6000.0.0b15
 
